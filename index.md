@@ -3,3 +3,6 @@
 ```javascript
 var myVar = "¡Hola mundo!";
 ```
+- [ ] Lavar los platos
+- [ ] Cocinar
+- [ ] Dormir
